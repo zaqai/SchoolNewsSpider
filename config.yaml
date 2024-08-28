@@ -1,0 +1,6 @@
+database:  
+  host: xxx  
+  port: 3306       
+  user: root   
+  password: "xxx"  
+  database: xxx
